@@ -1,0 +1,28 @@
+{
+  "name": "coderun",
+  "version": "0.1.0",
+  "description": "codeRun MCP server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtadpole/codeRun.git"
+  },
+  "keywords": [
+    "run",
+    "code",
+    "mcp",
+    "server"
+  ],
+  "author": "dtadpole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtadpole/codeRun/issues"
+  },
+  "homepage": "https://github.com/dtadpole/codeRun#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.9.0"
+  }
+}
